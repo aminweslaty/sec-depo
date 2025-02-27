@@ -1,0 +1,9 @@
+li{
+display: inline;
+margin-right:20px;
+}
+body{
+    background-color: black;
+    font-family: Roboto;
+    color: white;
+}
